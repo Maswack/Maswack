@@ -4,5 +4,4 @@
 <h1 align="center"> Hi there👋 </h1>
 <h3 align="center"> A humble developer here, interested in game dev and more... </h3>
 
-<h3 align="left">I’m currently trying to make a game, here's a link to repo [Gra1](https://github.com/HKMStudio/Gra1) </h3>
 
